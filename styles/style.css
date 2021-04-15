@@ -15,27 +15,12 @@ body {
     #f9f871
   );
   width: 100%;
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 @media only screen and (max-width: 768px) {
   body {
-    background-image: linear-gradient(
-      to right top,
-      #de54d2,
-      #ed53bf,
-      #f757ae,
-      #fd5e9e,
-      #ff6890,
-      #ff7582,
-      #ff8377,
-      #ff9270,
-      #ffa968,
-      #ffc263,
-      #ffdd65,
-      #f9f871
-    );
     width: 100vw;
     height: 100%;
   }
@@ -60,4 +45,10 @@ p.lead {
   box-shadow: 10px 10px 5px 0px rgba(221, 132, 132, 0.75);
   -webkit-box-shadow: 10px 10px 5px 0px rgba(221, 132, 132, 0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(221, 132, 132, 0.75);
+}
+.container,
+section {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
 }
