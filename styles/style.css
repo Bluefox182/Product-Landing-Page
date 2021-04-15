@@ -19,3 +19,16 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+h1,
+p.lead {
+  color: #2f4858;
+}
+.form-label {
+  font-family: var(--bs-font-sans-serif);
+  font-weight: bold;
+  color: #2f4858;
+}
+#emailHelp {
+  font-family: var(--bs-font-sans-serif);
+  color: #2f4858;
+}
