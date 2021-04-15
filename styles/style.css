@@ -32,3 +32,11 @@ p.lead {
   font-family: var(--bs-font-sans-serif);
   color: #2f4858;
 }
+#email {
+  font-family: var(--bs-font-sans-serif);
+}
+#header-img {
+  box-shadow: 10px 10px 5px 0px rgba(221, 132, 132, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(221, 132, 132, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(221, 132, 132, 0.75);
+}
