@@ -25,6 +25,17 @@ body {
     height: 100%;
   }
 }
+#nav-bar {
+  background-image: linear-gradient(
+    to right top,
+    #c83172,
+    #b51d78,
+    #9e0c7d,
+    #820483,
+    #610b87
+  );
+}
+
 h1,
 h2,
 p,
