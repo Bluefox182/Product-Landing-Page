@@ -80,3 +80,8 @@ section {
   padding: 0;
   box-sizing: border-box;
 }
+
+#how-it-works {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
