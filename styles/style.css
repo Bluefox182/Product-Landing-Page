@@ -85,3 +85,8 @@ section {
   margin-top: 50px;
   display: flex;
   justify-content: center;
+}
+
+#pricing {
+  margin-top: 60px;
+}
