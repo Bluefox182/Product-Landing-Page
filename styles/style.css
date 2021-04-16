@@ -103,7 +103,14 @@ section {
 }
 footer {
   margin-top: 30px;
-  background-color: #ddd;
+  background-image: linear-gradient(
+    to right top,
+    #c83172,
+    #b51d78,
+    #9e0c7d,
+    #820483,
+    #610b87
+  );
   padding: 20px;
 }
 footer > ul {
