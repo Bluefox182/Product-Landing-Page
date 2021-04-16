@@ -55,3 +55,28 @@ section {
   width: 100%;
   margin: 0 auto;
 }
+#features .icon-feature {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 125px;
+  width: 20vw;
+}
+
+.icon-feature {
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.grid {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
