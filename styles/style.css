@@ -134,3 +134,13 @@ footer > span {
   font-size: 0.9em;
   color: #444;
 }
+.card-top2 {
+  background-image: linear-gradient(
+    to right top,
+    #c83172,
+    #b51d78,
+    #9e0c7d,
+    #820483,
+    #610b87
+  );
+}
